@@ -1,0 +1,18 @@
+.root{
+    -fx-background-insets: 10;
+    -fx-border-width: 3;
+    -fx-border-color: #1b9faf;
+    -fx-background-color: #ececec;
+}
+.button{
+    -fx-font-size: 12;
+    -fx-background-radius: 10;
+    -fx-font-weight: Bolder;
+}
+.toggle-button{
+    -fx-font-size: 12;
+    -fx-background-radius: 10;
+    -fx-font-weight: Bolder;
+}
+
+
